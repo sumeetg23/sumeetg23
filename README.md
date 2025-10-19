@@ -22,6 +22,7 @@ My name is Sumeet Gupta. I work in the field of genomics and have a deep underst
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=plastic&logo=python&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=plastic&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
 
 **Bioinformatics Tools & Platforms**  
 ![Seurat](https://img.shields.io/badge/Seurat-R-blue?style=plastic) 
@@ -35,6 +36,7 @@ My name is Sumeet Gupta. I work in the field of genomics and have a deep underst
 **Databases & Backend**  
 ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=plastic&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
+![FileMaker](https://img.shields.io/badge/FileMaker-2C8EBB?style=plastic&logo=filemaker&logoColor=white)
 
 **Web & UI**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) 
@@ -42,8 +44,7 @@ My name is Sumeet Gupta. I work in the field of genomics and have a deep underst
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)  
 
 **Creative & Documentation**  
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=adobeillustrator&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=adobeillustrator&logoColor=white)  
 
 ---
 
